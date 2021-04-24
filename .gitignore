@@ -5,3 +5,8 @@ BCD_data.csv
 Churn_Model.csv
 insurance.csv
 med.ipynb
+housing_train.csv
+HomePrice.ipynb
+housing_test.csv
+SignFinData.ipynb
+financial_data.csv
